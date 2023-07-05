@@ -13,8 +13,8 @@
         "type": "image/png"
       }
     ],
-    "start_url": "/zxfile/dist/index.html",
-    "id": "/zxfile/dist/index.html",
+    "start_url": "index.html",
+    "id": "index.html",
     "display": "standalone",
     "background_color": "#002140",
     "theme_color": "#002140"
