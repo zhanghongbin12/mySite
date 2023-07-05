@@ -1,5 +1,5 @@
 module.exports = {
-    
+    outputDir: 'docs',
     publicPath: './',
     pwa: { 
         name: 'xxx',

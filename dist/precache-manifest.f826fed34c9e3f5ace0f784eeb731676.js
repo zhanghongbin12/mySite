@@ -68,7 +68,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/icons/mstile-150x150.png"
   },
   {
-    "revision": "4e857233cbd3bb2d2db4f78bed62a52f",
+    "revision": "6de16254d1b4193353e7015f9177535d",
     "url": "img/icons/safari-pinned-tab.svg"
   },
   {
@@ -92,11 +92,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/chunk-vendors.0b43d30e.js.map"
   },
   {
-    "revision": "77b5cb1d99cdf4feee509df7b0935d53",
+    "revision": "cda211ee30bb5bea9a45c6877e5b210e",
     "url": "manifest.json"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "revision": "735ab4f94fbcd57074377afca324c813",
     "url": "robots.txt"
   }
 ]);
